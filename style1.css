@@ -1,0 +1,17 @@
+.flex-container1 {
+    display: flex;
+    background-color: #023d77;
+    padding:20px;
+    margin: 20px;
+    
+  }
+  .flex-container2{
+      display:inline-flex;
+      background-color:DodgerBlue;
+      color: white;
+      padding:10px;
+  }
+  .child{
+  margin:0 15px;
+  padding: 5px;
+  }
