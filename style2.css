@@ -1,0 +1,20 @@
+.flex-container {
+    display: flex;
+    background-color: #023d77;
+    padding: 20px;
+    margin: 20px;
+  }
+
+  .child {
+    color: white;
+    padding: 10px;    
+  }
+
+  .blue {
+    background-color: DodgerBlue;
+  }
+
+  .orange {
+    background-color: orange;
+    flex-grow: 1;
+  }

@@ -1,0 +1,25 @@
+.flex-container {
+    margin: 20px;
+    padding: 20px;
+    background-color: #002B45;
+  display: flex;
+}
+
+.child {
+  padding: 15px;
+  color: white;
+  display: flex;
+}
+
+.left {
+  background-color: #0078D7;
+  flex: 0.6;
+}
+
+.right {
+  background-color: #FF8C00;
+  flex: 0.4;
+}
+.label {
+  margin-right: 40px;
+}
