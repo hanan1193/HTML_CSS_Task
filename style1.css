@@ -1,17 +1,15 @@
-.flex-container1 {
+.flex-container {
     display: flex;
     background-color: #023d77;
-    padding:20px;
+    padding: 20px;
     margin: 20px;
-    
   }
-  .flex-container2{
-      display:inline-flex;
-      background-color:DodgerBlue;
-      color: white;
-      padding:10px;
+
+  .child {
+    color: white;
+    padding: 20px;
+    text-align: center;
   }
-  .child{
-  margin:0 15px;
-  padding: 5px;
+  .blue {
+    background-color: DodgerBlue;
   }
